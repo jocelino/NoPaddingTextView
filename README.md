@@ -1,5 +1,8 @@
 # NoPaddingTextView
 
+implementation 'com.github.jocelino:NoPaddingTextView:1.0'
+
+
 有天, 当你遇到复杂的UI界面, 发现, 咦? 我的TextView明明使用的wrap_content, 明明没有设置padding, 为什么文字上下部分多出来了一块空间.<br/>
 
 <img src="screenshot/img1.png" width="320px"/><br/>
